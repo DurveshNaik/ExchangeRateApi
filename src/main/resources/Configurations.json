@@ -1,0 +1,6 @@
+{
+  "qa": {
+    "BaseUrl": "https://open.er-api.com/v6",
+    "latestRates": "/latest/{currency}"
+  }
+}

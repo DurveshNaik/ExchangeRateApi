@@ -40,3 +40,4 @@ To run the automated tests for the "Get Rates" API, use the following command:
 mvn test
    ```
 Or open the project in Intellij/Eclipse and run the tests.
+
